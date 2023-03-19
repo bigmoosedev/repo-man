@@ -1,7 +1,7 @@
 <h1>Repo-Man: Web App Security Toolkit</h1>
 
 <p>
-    SneakyPeeky is a collection of lightweight Python scripts for discovering potentially sensitive files and directories, subdomain enumeration, and basic web vulnerability scanning on web applications. The toolkit checks a list of known file paths, looks for common configuration files, log files, and other sensitive files that may have been accidentally exposed. Additionally, it provides subdomain enumeration and basic vulnerability scanning functionalities.
+Repo-Man is a collection of lightweight Python scripts for discovering potentially sensitive files and directories, subdomain enumeration, and basic web vulnerability scanning on web applications. The toolkit checks a list of known file paths, looks for common configuration files, log files, and other sensitive files that may have been accidentally exposed. Additionally, it provides subdomain enumeration and basic vulnerability scanning functionalities.
 </p>
 
 <h2>Features</h2>
@@ -72,5 +72,5 @@
 <h2>Disclaimer</h2>
 
 <p>
-    SneakyPeeky is for educational purposes and legal use only. Always obtain proper authorization before scanning any web applications. Unauthorized scanning may be illegal and unethical. For a more comprehensive vulnerability assessment, consider using established tools like OWASP ZAP or Burp Suite.
+    Repo-Man is for educational purposes and legal use only. Always obtain proper authorization before scanning any web applications. Unauthorized scanning may be illegal and unethical. For a more comprehensive vulnerability assessment, consider using established tools like OWASP ZAP or Burp Suite.
 </p>
